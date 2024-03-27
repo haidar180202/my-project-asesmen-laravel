@@ -30,12 +30,12 @@ git clone https://github.com/haidar180202/my-project-asesmen-laravel.git
 ## Fitur Aplikasi Hasil Pengujian
 
 <div style="display: flex;">
-  <div style="flex: 50%;">
+  <div style="flex: 50;">
   <center>
   <img src="./assetsdocumentasi/hasil-testing-api.png" alt="Hasil Testing API" >
   </center> 
   </div>
-  <div style="flex: 50%;">
+  <div style="flex: 50;">
     <center>
         <video controls width="470">
         <source src="./assetsdocumentasi/myprojectsimulation.mp4" type="video/mp4">
@@ -80,5 +80,5 @@ git clone https://github.com/haidar180202/my-project-asesmen-laravel.git
 
 ### The technology have i am use to create the application
 
-<img src="https://img.shields.io/badge/-Php-05122A?style=flat&logo=php" width="60" height="auto" alt="php logo"><img src="https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel" width="90" height="auto" alt="laravel logo"> <img src="https://img.shields.io/badge/-Jquery-05122A?style=flat&logo=jquery" width="80" height="auto" alt="jquery logo"> <img src="https://img.shields.io/badge/-Node Js-05122A?style=flat&logo=node.js" width="90" height="auto" alt="node.js logo"> <img src="https://img.shields.io/badge/-Express Js-05122A?style=flat&logo=express" width="98" height="auto" alt="express logo">
+<img src="https://img.shields.io/badge/-Php-05122A?style=flat&logo=php" width="60" height="auto" alt="php logo"> <img src="https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel" width="90" height="auto" alt="laravel logo"> <img src="https://img.shields.io/badge/-Jquery-05122A?style=flat&logo=jquery" width="80" height="auto" alt="jquery logo"> <img src="https://img.shields.io/badge/-Node Js-05122A?style=flat&logo=node.js" width="90" height="auto" alt="node.js logo"> <img src="https://img.shields.io/badge/-Express Js-05122A?style=flat&logo=express" width="98" height="auto" alt="express logo">
 <img src="https://img.shields.io/badge/-CRA-05122A?style=flat&logo=create-react-app" width="60" height="25" alt="cra logo">  <img src="https://img.shields.io/badge/-React Hooks-05122A?style=flat&logo=react hooks" width="80" height="25" alt="Hooks logo">  <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3" width="60" height="25" alt="redux logo">  <img src="https://img.shields.io/badge/-React Js-05122A?style=flat&logo=react" width="100" height="auto" alt="react.js logo">  <img src="https://img.shields.io/badge/-Tailwind Css-05122A?style=flat&logo=tailwind css" width="130" height="auto" alt="tailwind css logo">  <img src="https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux" width="80" height="auto" alt="redux logo">  <img src="https://img.shields.io/badge/-Pnpm-05122A?style=flat&logo=pnpm" width="75" height="auto" alt="laravel logo">

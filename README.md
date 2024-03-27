@@ -41,7 +41,7 @@ git clone https://github.com/haidar180202/my-project-asesmen-laravel.git
         <source src="./assetsdocumentasi/myprojectsimulation.mp4" type="video/mp4">
         Your browser does not support the video tag.
         </video>
-    <center>
+    </center>
   </div>
 </div>
 

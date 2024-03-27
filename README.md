@@ -20,7 +20,7 @@
 ``````
 git clone https://github.com/haidar180202/my-project-asesmen-laravel.git
 `````` 
--   lalu masuk ke direktori repo yg sudah di clone dengan ketik lg pada terminal/cmd/git bash <b>cd my-project-asesmen-laravel.gitn</b>
+-   lalu masuk ke direktori repo yg sudah di clone dengan ketik lg pada terminal/cmd/git bash <b>cd my-project-asesmen-laravel.git</b>
 -   lalu ketik <b>composser install </b> dan <b>php artisan key generate</b>
 -   tulis migrate database pada terminal/cmd/git bash : <b>php artisan migrate:install</b>
 -   jalankan php artisan db:seed pada terminal/cmd/git bash : <b>php artisan db:seed</b>
@@ -30,11 +30,9 @@ git clone https://github.com/haidar180202/my-project-asesmen-laravel.git
 ## Fitur Aplikasi Hasil Pengujian
 
   <center>
-  <img src="./assetsdocumentasi/hasil-testing-api.png" alt="Hasil Testing API" >
-  <video controls width="470">
-        <source src="./assetsdocumentasi/myprojectsimulation.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-</video>
+  <img src="./assetsdocumentasi/hasil-testing-api.png" alt="Hasil Testing API" > 
+  <a href="./assetsdocumentasi/myprojectsimulation.mp4"><img src="./assetsdocumentasi/notification.png" alt="Hasil Testing API" width="365"></a>
+  
   </center> 
 
 

@@ -30,12 +30,12 @@ git clone https://github.com/haidar180202/my-project-asesmen-laravel.git
 ## Fitur Aplikasi Hasil Pengujian
 
   <center>
-  <img src="./assetsdocumentasi/hasil-testing-api.png" alt="Hasil Testing API" > 
-  <a href="./assetsdocumentasi/myprojectsimulation.mp4"><img src="./assetsdocumentasi/notification.png" alt="Hasil Testing API" width="365"></a>
-  
+  <img src="./assetsdocumentasi/hasil-testing-api.png" alt="Hasil Testing API"> 
   </center> 
-
-
+  <br/>
+<center >
+<a href="assetsdocumentasi/myprojectsimulation.mp4"><img src="./assetsdocumentasi/notification.png" alt="Hasil Testing API" width="385"></a>
+</center>
 
 ## Detail Permintaan Aplikasi 
 ### Fitur CRUD API

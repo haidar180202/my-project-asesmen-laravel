@@ -29,21 +29,14 @@ git clone https://github.com/haidar180202/my-project-asesmen-laravel.git
 
 ## Fitur Aplikasi Hasil Pengujian
 
-<div style="display: flex;">
-  <div style="flex: 50;">
   <center>
   <img src="./assetsdocumentasi/hasil-testing-api.png" alt="Hasil Testing API" >
-  </center> 
-  </div>
-  <div style="flex: 50;">
-    <center>
-        <video controls width="470">
+  <video controls width="470">
         <source src="./assetsdocumentasi/myprojectsimulation.mp4" type="video/mp4">
         Your browser does not support the video tag.
-        </video>
-    </center>
-  </div>
-</div>
+</video>
+  </center> 
+
 
 
 ## Detail Permintaan Aplikasi 
